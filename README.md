@@ -1,25 +1,11 @@
 # Requirements
 
-- selenium
+## selenium 
+`$ pip install -U selenium`
+https://pypi.python.org/pypi/selenium
 
-```
-	$ pip install -U selenium
-```
+## chromedriver
+https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver
 
->	More info: https://pypi.python.org/pypi/selenium
-
-- chromedriver
-
->	Obtaining chromedriver: https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver
-
-- pandas
-
-```
-   $ conda install pandas
-```
-
->   or
-
-```
-	$ pip install pandas
-```	
+## pandas 
+`$ conda install pandas` or `$ pip install pandas`
