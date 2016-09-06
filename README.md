@@ -15,3 +15,11 @@ This is used for interfacing with the web content through selenium. You can usua
 This is used for post processing the scraped data. To install:
 
 `$ conda install pandas` or `$ pip install pandas`
+
+# Executing
+
+After the requirements are fulfilled, run `scaper.py` using python:
+
+`$ python scraper.py`
+
+What you should obtain if it runs successfully are two files: `table.csv` and `random.csv` as included with this repository.
