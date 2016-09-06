@@ -22,4 +22,4 @@ After the requirements are fulfilled, run `scaper.py` using python:
 
 `$ python scraper.py`
 
-What you should obtain if it runs successfully are two files: `table.csv` and `random.csv` as included with this repository.
+What you should obtain if the program runs successfully are two files: `table.csv` and `random.csv` as included with this repository.
