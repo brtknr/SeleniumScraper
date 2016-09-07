@@ -16,7 +16,7 @@ This is used for post processing the scraped data. To install:
 
 `$ conda install pandas` or `$ pip install pandas`
 
-# Executing
+# Execution
 
 After the requirements are fulfilled, run `scaper.py` using python:
 
